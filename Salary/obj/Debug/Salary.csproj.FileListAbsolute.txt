@@ -1,0 +1,17 @@
+H:\Taukir\Salary\Salary\bin\Debug\Salary.exe.config
+H:\Taukir\Salary\Salary\bin\Debug\Salary.exe
+H:\Taukir\Salary\Salary\bin\Debug\Salary.pdb
+H:\Taukir\Salary\Salary\obj\Debug\Salary.csprojResolveAssemblyReference.cache
+H:\Taukir\Salary\Salary\obj\Debug\Salary.Form1.resources
+H:\Taukir\Salary\Salary\obj\Debug\Salary.Properties.Resources.resources
+H:\Taukir\Salary\Salary\obj\Debug\Salary.csproj.GenerateResource.Cache
+H:\Taukir\Salary\Salary\obj\Debug\Salary.exe
+H:\Taukir\Salary\Salary\obj\Debug\Salary.pdb
+D:\TUTORIAL\ASP.NET\Salary\Salary\bin\Debug\Salary.exe.config
+D:\TUTORIAL\ASP.NET\Salary\Salary\bin\Debug\Salary.exe
+D:\TUTORIAL\ASP.NET\Salary\Salary\bin\Debug\Salary.pdb
+D:\TUTORIAL\ASP.NET\Salary\Salary\obj\Debug\Salary.SalaryAppUI.resources
+D:\TUTORIAL\ASP.NET\Salary\Salary\obj\Debug\Salary.Properties.Resources.resources
+D:\TUTORIAL\ASP.NET\Salary\Salary\obj\Debug\Salary.csproj.GenerateResource.Cache
+D:\TUTORIAL\ASP.NET\Salary\Salary\obj\Debug\Salary.exe
+D:\TUTORIAL\ASP.NET\Salary\Salary\obj\Debug\Salary.pdb
